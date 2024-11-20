@@ -12,7 +12,7 @@
     <div class="flex flex-col items-center justify-center w-full px-5 py-12 mx-auto text-center max-w-7xl md:px-10 md:py-12">
         <a href='/'>
             <h1 class="mb-4 text-6xl font-bold text-black md:text-8xl">
-                Nikkey Olori 
+                Nikkey Olori
                 <span class="text-transparent bg-clip-text bg-gradient-to-r from-pink-500 to-yellow-500">Cooks!</span>
             </h1>
         </a>
